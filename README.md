@@ -3,3 +3,4 @@ Mini_Test_Project
 
 
 Test_Git_1_Commit
+Second commit
